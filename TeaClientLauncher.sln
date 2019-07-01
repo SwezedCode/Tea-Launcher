@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeaClientLauncher", "TeaClientLauncher\TeaClientLauncher.csproj", "{4161983E-DDD2-47B6-B4A8-D9A8C7F3328B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4161983E-DDD2-47B6-B4A8-D9A8C7F3328B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4161983E-DDD2-47B6-B4A8-D9A8C7F3328B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4161983E-DDD2-47B6-B4A8-D9A8C7F3328B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4161983E-DDD2-47B6-B4A8-D9A8C7F3328B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CDA0823-D954-4F93-874F-D3FAA6B6A713}
+	EndGlobalSection
+EndGlobal
